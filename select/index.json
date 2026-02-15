@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Highway Boogie",
+  "base_artist": "3House",
+  "createdAt": "2026-02-15T03:28:20.180398Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Highway Boogie (feat. Dexus Ogawa)",
+      "artist": "3House",
+      "has_synced": false,
+      "path": "select/01_Highway_Boogie_(feat._Dexus_Ogawa)_3House.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Highway Boogie (feat. Dexus Ogawa)",
+      "artist": "3House",
+      "has_synced": false,
+      "path": "select/pl_01_Highway_Boogie_(feat._Dexus_Ogawa)_3House.txt"
+    }
+  ]
+}
